@@ -1,0 +1,5 @@
+Nomes: 
+  - Felipe Assis Bernardes Falvo — Nº USP: 15004433
+  - Kayke Malaquias Gregorio — Nº USP: 15651561
+
+https://github.com/felipe-falvo/Pratica3_Checkpoint3_SEL0337
